@@ -25,6 +25,11 @@
 
 You're reading it! and here is a link to my [project code](https://github.com/hanxiaomax/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
+I read some codes and blogs before started my work:
+- [code](https://github.com/jeremy-shannon/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+- [medium](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-2-traffic-sign-classifier-f52d33d4be9f)
+
+
 ## 1. Load data
 
 ```python
