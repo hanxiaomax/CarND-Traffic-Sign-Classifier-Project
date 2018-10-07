@@ -3,7 +3,7 @@
 
 **Build a Traffic Sign Recognition Project**
 
-###The goals / steps of this project are the following:
+### The goals / steps of this project are the following:
 1. Load the data set (see below for links to the project data set)
 2. Explore, summarize and visualize the data set
 3. Pre-processing the input image
@@ -130,7 +130,7 @@ X_validation size: 6960
 using `train_test_split` from the `sklearn.model_selection ` with ratio of 0.2 to take validation data sets.
 
 
-##4.  Design and Test a Model Architecture
+## 4.  Design and Test a Model Architecture
 
 ### 1. LeNet
 #### 1. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
